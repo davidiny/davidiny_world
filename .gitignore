@@ -22,5 +22,5 @@
 
 .byebug_history
 
-#Ignore all test coverage files
+# Ignore all test coverage files
 /coverage
